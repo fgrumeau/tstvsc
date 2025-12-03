@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<obj_properties>
+	<text>Last customer Order</text>
+	<type>*DTAARA</type>
+	<object_type>*DTAARA</object_type>
+	<object_loc>*L02</object_loc>
+</obj_properties>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<obj_properties>
+	<text>Sample Application Log</text>
+	<type>*USRSPC</type>
+	<object_type>*USRSPC</object_type>
+	<object_loc>*L02</object_loc>
+</obj_properties>
